@@ -1,4 +1,4 @@
-package prova.restaurante.gestao;
+package gestao;
 
 import java.util.List;
 import java.util.UUID;
